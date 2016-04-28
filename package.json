@@ -1,5 +1,5 @@
 {
-  "name": "inky",
+  "name": "arthur-inky",
   "version": "1.3.4",
   "description": "Convert a simple HTML syntax into tables compatible with Foundation for Emails.",
   "author": "ZURB <foundation@zurb.com> (http://foundation.zurb.com)",
@@ -30,7 +30,7 @@
     "mocha": "^2.4.5",
     "rimraf": "^2.5.1"
   },
-  "repository": "https://github.com/zurb/inky.git",
-  "bugs": "https://github.com/zurb/inky/issues",
+  "repository": "https://github.com/arthurpf/inky.git",
+  "bugs": "https://github.com/arthurpf/inky/issues",
   "license": "MIT"
 }
